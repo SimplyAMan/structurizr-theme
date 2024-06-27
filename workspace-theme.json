@@ -1,0 +1,48 @@
+{
+  "name" : "Name",
+  "description" : "Description",
+  "elements" : [ {
+    "tag" : "Element",
+    "color" : "#000000"
+  }, {
+    "tag" : "Software System",
+    "background" : "#2d882d"
+  }, {
+    "tag" : "Person",
+    "background" : "#116611",
+    "shape" : "Person"
+  }, {
+    "tag" : "Container",
+    "background" : "#55aa55"
+  }, {
+    "tag" : "Database",
+    "shape" : "Cylinder"
+  }, {
+    "tag" : "Frontend",
+    "background" : "#c2d69b"
+  }, {
+    "tag" : "Middle System"
+  }, {
+    "tag" : "Back System",
+    "background" : "#8db3e2"
+  }, {
+    "tag" : "CRM",
+    "background" : "#ffc000"
+  }, {
+    "tag" : "Analitic System"
+  }, {
+    "tag" : "Client System"
+  }, {
+    "tag" : "Middleware",
+    "background" : "#e36c10"
+  }, {
+    "tag" : "ERP",
+    "background" : "#ffff99"
+  }, {
+    "tag" : "Infrastructure",
+    "background" : "#6e501a"
+  }, {
+    "tag" : "Processing",
+    "background" : "#50821a"
+  } ]
+}
